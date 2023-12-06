@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Huang_Conard_Fudgeworld_ETL", "CONARD_Northwind_ETL\Huang_Conard_Fudgeworld_ETL.dtproj", "{1F1EDCDD-68BD-488B-8EB3-8E0E5724D338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F1EDCDD-68BD-488B-8EB3-8E0E5724D338}.Development|Default.ActiveCfg = Development
+		{1F1EDCDD-68BD-488B-8EB3-8E0E5724D338}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2CE1A0B-7939-47E7-A8C0-506B4B61C323}
+	EndGlobalSection
+EndGlobal
